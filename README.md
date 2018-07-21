@@ -112,3 +112,21 @@ The four plots that you will need to construct are shown below.
 
 ![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
 
+## Creating Plots From This Repository
+
+### In order to create the plots for this assignment:
+- Clone this repository 
+- Copy the data file `household_power_consumption.txt` to the clone location
+- Plot 1
+  - source("plot1.R")
+  - plot1()
+- Plot 2
+  - source("plot2.R")
+  - plot2()
+- Plot 3
+  - source("plot3.R")
+  - plot3()
+- Plot 4
+  - source("plot4.R")
+  - plot4()
+

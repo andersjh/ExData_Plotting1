@@ -1,1 +1,5 @@
 household_power_consumption.txt
+.DS_Store
+.RData
+.Rapp.history
+.Rhistory
